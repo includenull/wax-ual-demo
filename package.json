@@ -1,0 +1,50 @@
+{
+  "name": "wax-ual-demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@eosdacio/ual-wax": "^1.5.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.0.0",
+    "eosjs": "^22.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "ual-anchor": "^1.0.9",
+    "ual-ledger": "^0.3.0",
+    "ual-reactjs-renderer": "^0.3.1",
+    "ual-scatter": "^0.3.0",
+    "ual-starteos": "^0.3.1",
+    "ual-wombat": "^0.3.3",
+    "web-vitals": "^2.0.0"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "craco eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^6.2.0"
+  }
+}

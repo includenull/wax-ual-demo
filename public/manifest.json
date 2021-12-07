@@ -1,0 +1,8 @@
+{
+  "short_name": "wax-ual-demo",
+  "name": "wax-ual-demo",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#181c23"
+}
